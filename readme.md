@@ -62,4 +62,4 @@ Use the credentials below to log in as the admin:
 
 ## 🧑 Dashboard
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](dashboard.png)
